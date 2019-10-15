@@ -1,5 +1,3 @@
-counter = 0
-
-while counter < 5
-  puts "Hello World!"
+5.times do
+  puts "Hello World"
 end
